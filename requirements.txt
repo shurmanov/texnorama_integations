@@ -34,7 +34,7 @@ instagram-private-api-extensions==0.3.8
 InstagramAPI==1.0.2
 instapy-cli==0.0.12
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 jsonschema==2.6.0
 kombu==4.6.7
 loguru==0.5.2
