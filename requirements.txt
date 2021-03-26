@@ -53,7 +53,7 @@ pyTelegramBotAPI==3.6.7
 python-dotenv==0.10.5
 python-telegram-bot==12.2.0
 pytz==2019.3
-PyYAML==5.2
+PyYAML==5.4
 regex==2019.12.20
 requests==2.22.0
 requests-toolbelt==0.7.0
